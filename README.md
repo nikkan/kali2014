@@ -1,4 +1,4 @@
-Kayttöliittymien arviointimenetelmät 2014
+Käyttöliittymien arviointimenetelmät 2014
 =========================================
 
 Täältä löydät esimerkin Käyttöliittymien arviointimenetelmät -kurssin kotitehtävästä.
